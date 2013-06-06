@@ -18,7 +18,7 @@
  * 
  * @type {string}
  */
-CLIENT_ID = '81961503995-lsc5io2g1phnfvlpkcdflcpvk05m286v.apps.googleusercontent.com';
+CLIENT_ID = '722602447226-eckmmcqurh84lbe6v3cq9bg0dld66rmk.apps.googleusercontent.com';
 
 /**
  * Scopes used by the application.
