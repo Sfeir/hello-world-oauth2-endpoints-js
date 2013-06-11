@@ -44,7 +44,7 @@ public class GreetingV1 {
 	 *             clientIds.
 	 * @throws IOException
 	 */
-	@ApiMethod(name = "greetings.getGreeting")
+	@ApiMethod(name = "greetings.getGreeting", httpMethod = "GET", path="greetings")
 	public Greeting getGreeting(final User user) throws OAuthRequestException, IOException {
 		if (user != null) {
 			return Greeting.fromString(user.getNickname()); 
