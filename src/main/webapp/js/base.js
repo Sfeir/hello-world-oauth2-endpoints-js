@@ -18,7 +18,7 @@
  * 
  * @type {string}
  */
-CLIENT_ID = '722602447226-eckmmcqurh84lbe6v3cq9bg0dld66rmk.apps.googleusercontent.com';
+CLIENT_ID = 'your client id';
 
 /**
  * Scopes used by the application.
